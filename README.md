@@ -19,27 +19,46 @@ Must install JSON Server globally with: yarn global add json-server
 Then run json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000 in json-server folder to access assets.
 
 
-## Screenshots
+## Screenshots of Front End
 
-Home Page
+# Home Page
 
-(https://raw.githubusercontent.com/drewhollis/repository/master/imagename.png)
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/Homepage.png)
 
-Directory
+# Directory
 
-About Page
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/Directory.png)
 
-Campsite Info
+# About Page
 
-Comment Card
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/About%20Page.png)
 
-New Comment Example
+# Campsite Info
 
-Contact Page
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/Campsite%20Info.png)
 
-Mobile Responsive
+# Comment Card
 
-RESTful Server
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/Comment%20Form.png)
+
+# New Comment Example
+
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/New%20Comment.png)
+
+# Contact Page
+
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/Contact%20Page.png)
+
+# Mobile Responsive
+
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/Mobile%20Responsive%20Design.png)
+
+# RESTful Server
+
+![Settings Window](https://github.com/drewhollis/campsite-review-site/blob/main/NuCampsite%20Screenshots/RESTful%20Server.png)
+
+
+## Server Side Node.js Code Available For Review in the "backend" Folder Above
 
 
 
