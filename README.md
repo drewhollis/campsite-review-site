@@ -14,7 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-Must run json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000 in json-server folder to access assets.
+Must install JSON Server globally with: yarn global add json-server
+
+Then run json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000 in json-server folder to access assets.
 
 
 ## Screenshots
